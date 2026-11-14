@@ -1,7 +1,4 @@
 <?php
-// ZDT_INTENTIONAL_BUILD_FAIL
-$__zdt_fail = "this-string-is-intentionally-unclosed
-
 
 /*
  * This file is part of the Symfony package.
